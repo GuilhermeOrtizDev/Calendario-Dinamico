@@ -1,6 +1,8 @@
 # Date Range
 
-  <video width="320" height="240" controls>
-    <source src="https://github.com/GuilhermeOrtizDev/Date-Range/blob/main/2022-09-07%2014-35-29.mp4" type="video/mp4">
-  </video>
-
+<p align="center">
+  <img src="  https://github.com/GuilhermeOrtizDev/Date-Range/blob/main/date%20range.PNG" width="200">
+  <img src="https://i.imgur.com/yKpxoRu.png" width="200">
+  <img src="https://i.imgur.com/L5HhzlT.png" width="200">
+  <img src="https://i.imgur.com/WsQroez.png" width="200">
+</p>
